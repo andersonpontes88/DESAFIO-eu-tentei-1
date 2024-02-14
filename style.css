@@ -42,7 +42,7 @@ a:active {
 
 img {
     width: 456px;
-    height: 561.95px;
+    height: 490px;
     position: relative;
     top: 25%;
     right: 130px;
@@ -94,7 +94,7 @@ header {
 @media screen and (max-width: 930px) {
     .lado-esquerdo {
         display: block;
-        height: 50vh;
+        height: 42vh;
         width: 100%;
         padding: 0;
         margin: 0;
@@ -104,7 +104,7 @@ header {
         height: auto;
         width: 100%;
         position: static;
-        padding: 40px;
+        padding: 16px;
     }
 
     img {
